@@ -1,15 +1,13 @@
 ### Hi there 👋
 <h1 align="center">Oi pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Henrique Santos</h1>
-<h3 align="center">Sou um estudante de Ciência de Computação aprendendo mais a cada dia!!</h3>
+<h3 align="center">Sou formado em Ciência de Computação e sigo aprendendo mais a cada dia!!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrqcds" alt="HenriqueSantos" /> </p>
 
-- 🔭 Eu estou atualmente em busca de oportunidades
+- 🔭 Eu estou atualmente trabalhando como desenvolvedor fullstack pleno, focado em NODE.
 
-- 💬 Pergunte-me sobre **HTML, CSS, JAVASCRIPT e REACT**
+- 💬 Pergunte-me sobre **JAVASCRIPT, REACT, VUE, PYTHON e ELIXIR**
 
-- 🌱 Eu estou atualmente aprendendo **Flutter/Dart**
-
-- 📫 How to reach me **hrqcds.dev@gmail.com**
+- 🌱 Eu estou atualmente aprendendo **GO/JAVA**
 
 - ⚡ Fun fact **Oneye 😜**
 
@@ -23,9 +21,9 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/hrqcds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/zhrq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/hrqcds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/16160674/henrique-santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://codepen.io/hrqcds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="hrqcds" height="20" width="20" /></a>
+<a href="https://twitter.com/zhrq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hrqcds" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/hrqcds" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hrqcds" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/16160674/henrique-santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="hrqcds" height="20" width="20" /></a>
 <a href="https://instagram.com/darkhrq10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
